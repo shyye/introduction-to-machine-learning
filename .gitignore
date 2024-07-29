@@ -263,3 +263,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks,windows,macos
+
+
+# Start of own additional gitignore rules
+hidden/
