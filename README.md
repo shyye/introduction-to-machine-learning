@@ -1,6 +1,7 @@
 # Introduction to Machine Learning
 
-Practice exercises within machine learning.
+<!-- Practice exercises within machine learning.   -->
+This repository contains my implementations and/or notes for practice exercises in learning and applying machine learning concepts.
 
 **Resources**  
 Course from [Linnaeus University](https://lnu.se/en/) :  
